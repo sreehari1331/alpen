@@ -91,4 +91,4 @@ For more information please see [`CONTRIBUTING.md`](/CONTRIBUTING.md).
 ## License
 
 This work is dual-licensed under MIT and Apache 2.0.
-You can choose between one of them if you use this work.
+You can choose between one of them if you use this work OR make it better.
